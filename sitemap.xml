@@ -1,309 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://buup.io/</loc>
+      <loc>https://benletchford.github.io/buup/</loc>
       <priority>1.0</priority>
       <changefreq>weekly</changefreq>
    </url>
    <!-- encoders related transformers -->
    <url>
-      <loc>https://buup.io/#ascii_to_hex</loc>
+      <loc>https://benletchford.github.io/buup/#ascii_to_hex</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#base64encode</loc>
+      <loc>https://benletchford.github.io/buup/#base64encode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#bin_to_hex</loc>
+      <loc>https://benletchford.github.io/buup/#bin_to_hex</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#binaryencode</loc>
+      <loc>https://benletchford.github.io/buup/#binaryencode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#dec_to_bin</loc>
+      <loc>https://benletchford.github.io/buup/#dec_to_bin</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#dec_to_hex</loc>
+      <loc>https://benletchford.github.io/buup/#dec_to_hex</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hex_to_bin</loc>
+      <loc>https://benletchford.github.io/buup/#hex_to_bin</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hexencode</loc>
+      <loc>https://benletchford.github.io/buup/#hexencode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#htmlencode</loc>
+      <loc>https://benletchford.github.io/buup/#htmlencode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#morseencode</loc>
+      <loc>https://benletchford.github.io/buup/#morseencode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#rot13</loc>
+      <loc>https://benletchford.github.io/buup/#rot13</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#urlencode</loc>
+      <loc>https://benletchford.github.io/buup/#urlencode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- decoders related transformers -->
    <url>
-      <loc>https://buup.io/#base64decode</loc>
+      <loc>https://benletchford.github.io/buup/#base64decode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#bin_to_dec</loc>
+      <loc>https://benletchford.github.io/buup/#bin_to_dec</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#binarydecode</loc>
+      <loc>https://benletchford.github.io/buup/#binarydecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hex_to_ascii</loc>
+      <loc>https://benletchford.github.io/buup/#hex_to_ascii</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hex_to_dec</loc>
+      <loc>https://benletchford.github.io/buup/#hex_to_dec</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hexdecode</loc>
+      <loc>https://benletchford.github.io/buup/#hexdecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#htmldecode</loc>
+      <loc>https://benletchford.github.io/buup/#htmldecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#jwtdecode</loc>
+      <loc>https://benletchford.github.io/buup/#jwtdecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#morsedecode</loc>
+      <loc>https://benletchford.github.io/buup/#morsedecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#urldecode</loc>
+      <loc>https://benletchford.github.io/buup/#urldecode</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- compression related transformers -->
    <url>
-      <loc>https://buup.io/#deflatecompress</loc>
+      <loc>https://benletchford.github.io/buup/#deflatecompress</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#deflatedecompress</loc>
+      <loc>https://benletchford.github.io/buup/#deflatedecompress</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#gzipcompress</loc>
+      <loc>https://benletchford.github.io/buup/#gzipcompress</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#gzipdecompress</loc>
+      <loc>https://benletchford.github.io/buup/#gzipdecompress</loc>
       <priority>0.9</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- formatters related transformers -->
    <url>
-      <loc>https://buup.io/#htmltomarkdown</loc>
+      <loc>https://benletchford.github.io/buup/#htmltomarkdown</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#jsonformatter</loc>
+      <loc>https://benletchford.github.io/buup/#jsonformatter</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#jsonminifier</loc>
+      <loc>https://benletchford.github.io/buup/#jsonminifier</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#linenumberadder</loc>
+      <loc>https://benletchford.github.io/buup/#linenumberadder</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#linenumberremover</loc>
+      <loc>https://benletchford.github.io/buup/#linenumberremover</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#markdowntohtml</loc>
+      <loc>https://benletchford.github.io/buup/#markdowntohtml</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#sqlformatter</loc>
+      <loc>https://benletchford.github.io/buup/#sqlformatter</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#sqlminifier</loc>
+      <loc>https://benletchford.github.io/buup/#sqlminifier</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#xmlformatter</loc>
+      <loc>https://benletchford.github.io/buup/#xmlformatter</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#xmlminifier</loc>
+      <loc>https://benletchford.github.io/buup/#xmlminifier</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- crypto related transformers -->
    <url>
-      <loc>https://buup.io/#md5hash</loc>
+      <loc>https://benletchford.github.io/buup/#md5hash</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#sha1hash</loc>
+      <loc>https://benletchford.github.io/buup/#sha1hash</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#sha256hash</loc>
+      <loc>https://benletchford.github.io/buup/#sha256hash</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#uuid5_generate</loc>
+      <loc>https://benletchford.github.io/buup/#uuid5_generate</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- colors related transformers -->
    <url>
-      <loc>https://buup.io/#hex_to_hsl</loc>
+      <loc>https://benletchford.github.io/buup/#hex_to_hsl</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hex_to_rgb</loc>
+      <loc>https://benletchford.github.io/buup/#hex_to_rgb</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hsl_to_hex</loc>
+      <loc>https://benletchford.github.io/buup/#hsl_to_hex</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#hsl_to_rgb</loc>
+      <loc>https://benletchford.github.io/buup/#hsl_to_rgb</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#rgb_to_hex</loc>
+      <loc>https://benletchford.github.io/buup/#rgb_to_hex</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#rgb_to_hsl</loc>
+      <loc>https://benletchford.github.io/buup/#rgb_to_hsl</loc>
       <priority>0.8</priority>
       <changefreq>monthly</changefreq>
    </url>
    <!-- others related transformers -->
    <url>
-      <loc>https://buup.io/#cameltosnake</loc>
+      <loc>https://benletchford.github.io/buup/#cameltosnake</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#color_code_convert</loc>
+      <loc>https://benletchford.github.io/buup/#color_code_convert</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#csvtojson</loc>
+      <loc>https://benletchford.github.io/buup/#csvtojson</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#jsontocsv</loc>
+      <loc>https://benletchford.github.io/buup/#jsontocsv</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#linesorter</loc>
+      <loc>https://benletchford.github.io/buup/#linesorter</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#slugify</loc>
+      <loc>https://benletchford.github.io/buup/#slugify</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#snaketocamel</loc>
+      <loc>https://benletchford.github.io/buup/#snaketocamel</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#text_stats</loc>
+      <loc>https://benletchford.github.io/buup/#text_stats</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#textreverse</loc>
+      <loc>https://benletchford.github.io/buup/#textreverse</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#uniquelines</loc>
+      <loc>https://benletchford.github.io/buup/#uniquelines</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#urlparser</loc>
+      <loc>https://benletchford.github.io/buup/#urlparser</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#uuid_generate</loc>
+      <loc>https://benletchford.github.io/buup/#uuid_generate</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
    <url>
-      <loc>https://buup.io/#whitespaceremover</loc>
+      <loc>https://benletchford.github.io/buup/#whitespaceremover</loc>
       <priority>0.7</priority>
       <changefreq>monthly</changefreq>
    </url>
