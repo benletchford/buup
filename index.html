@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Buup - Text Utility Belt</title>
-        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta charset="UTF-8">
-    <link rel="preload" as="script" href="/buup/assets/buup_web-dxh4f3e432722b265a4.js" crossorigin></head>
-    <body>
-        <div id="main"></div>
-    <script type="module" async src="/buup/assets/buup_web-dxh4f3e432722b265a4.js"></script>
+  <head>
+    <title>Buup - Text Utility Belt</title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8" />
+  <link rel="preload" as="script" href="/buup/assets/buup_web-667e89edbd942415.js" crossorigin><link rel="preload" as="fetch" type="application/wasm" href="/buup/assets/buup_web_bg-764e9b633f11b516.wasm" crossorigin></head>
+  <body>
+    <div id="main"></div>
+  <script>
+            // We can't use a module script here because we need to start the script immediately when streaming
+            import("/buup/assets/buup_web-667e89edbd942415.js").then(
+                ({ default: init }) => {
+                init("/buup/assets/buup_web_bg-764e9b633f11b516.wasm").then((wasm) => {
+                    if (wasm.__wbindgen_start == undefined) {
+                    wasm.main();
+                    }
+                });
+                }
+            );
+            </script>
+            
             </body>
 </html>
