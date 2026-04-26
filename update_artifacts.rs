@@ -190,7 +190,7 @@ fn generate_sitemap() -> Result<(), Box<dyn Error>> {
     let mut sitemap_content = r#"<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://buup.io/</loc>
+      <loc>https://benletchford.github.io/buup/</loc>
       <priority>1.0</priority>
       <changefreq>weekly</changefreq>
    </url>
@@ -232,7 +232,7 @@ fn generate_sitemap() -> Result<(), Box<dyn Error>> {
 
             for transformer in sorted_transformers {
                 sitemap_content.push_str(&format!(
-                    "   <url>\n      <loc>https://buup.io/#{}</loc>\n      <priority>{}</priority>\n      <changefreq>monthly</changefreq>\n   </url>\n",
+                    "   <url>\n      <loc>https://benletchford.github.io/buup/#{}</loc>\n      <priority>{}</priority>\n      <changefreq>monthly</changefreq>\n   </url>\n",
                     transformer.id(),
                     get_priority(transformer)
                 ));

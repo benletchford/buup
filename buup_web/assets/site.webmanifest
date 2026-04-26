@@ -2,13 +2,13 @@
   "name": "Buup - Text Utility Belt",
   "short_name": "Buup",
   "description": "A versatile text transformation toolkit.",
-  "start_url": "/",
+  "start_url": "/buup/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#FFE0E9",
   "icons": [
     {
-      "src": "/buup-icon.svg",
+      "src": "/buup/buup-icon.svg",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }

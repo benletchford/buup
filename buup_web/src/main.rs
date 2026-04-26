@@ -450,7 +450,10 @@ fn App() -> Element {
     );
 
     // Generate canonical URL
-    let canonical_url = format!("https://buup.io/#{}", current_transformer().id());
+    let canonical_url = format!(
+        "https://benletchford.github.io/buup/#{}",
+        current_transformer().id()
+    );
 
     // Create a list of all tool names for rich results
     let _all_tool_names = transformers
@@ -465,7 +468,7 @@ fn App() -> Element {
             "@context": "https://schema.org",
             "@type": "WebApplication",
             "name": "Buup - Text Utility Belt",
-            "url": "https://buup.io",
+            "url": "https://benletchford.github.io/buup/",
             "applicationCategory": "UtilitiesApplication",
             "offers": {{
                 "@type": "Offer",
@@ -506,14 +509,14 @@ fn App() -> Element {
         document::Meta { property: "og:description", content: "{meta_description}" }
         document::Meta { property: "og:type", content: "website" }
         document::Meta { property: "og:url", content: "{canonical_url}" }
-        document::Meta { property: "og:image", content: "https://buup.io/apple-touch-icon.png" }
+        document::Meta { property: "og:image", content: "https://benletchford.github.io/buup/apple-touch-icon.png" }
         document::Meta { property: "og:site_name", content: "Buup - Text Utility Belt" }
 
         // Twitter Card tags
         document::Meta { name: "twitter:card", content: "summary" }
         document::Meta { name: "twitter:title", content: "{page_title}" }
         document::Meta { name: "twitter:description", content: "{meta_description}" }
-        document::Meta { name: "twitter:image", content: "https://buup.io/apple-touch-icon.png" }
+        document::Meta { name: "twitter:image", content: "https://benletchford.github.io/buup/apple-touch-icon.png" }
 
         // Structured data
         script { r#type: "application/ld+json", dangerous_inner_html: "{structured_data}" }

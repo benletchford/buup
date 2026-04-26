@@ -3,6 +3,8 @@
 [web.app]
 # HTML title tag content
 title = "Buup - Text Utility Belt"
+# Base path served from GitHub Pages project site (https://benletchford.github.io/buup/)
+base_path = "buup"
 
 [web.watcher]
 

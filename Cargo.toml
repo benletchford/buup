@@ -6,7 +6,7 @@ edition = "2021"
 description = "Core transformation library with zero dependencies"
 license = "MIT"
 documentation = "https://github.com/benletchford/buup"
-homepage = "https://buup.io"
+homepage = "https://benletchford.github.io/buup/"
 repository = "https://github.com/benletchford/buup"
 include = ["src", "Cargo.toml", "Cargo.lock", "README.md", "LICENSE"]
 
