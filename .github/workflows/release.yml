@@ -102,8 +102,8 @@ jobs:
       - name: Run Dioxus Deploy Action
         working-directory: ./buup_web
         run: |
-          # This will run the equivalent of the Dioxus deploy action in the buup_web directory
-          cargo binstall dioxus-cli -y
+          # Must match the dioxus runtime version: 0.7.x dx silently drops manganis assets when building a 0.6 project.
+          cargo binstall dioxus-cli@0.6.3 -y
           dx build --release
 
       - name: Copy specific assets to public folder for GitHub Pages
