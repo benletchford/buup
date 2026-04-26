@@ -1,6 +1,6 @@
 [package]
 name = "buup"
-version = "0.25.4"
+version = "0.25.5"
 authors = ["Ben Letchford <me@benletchford.com>"]
 edition = "2021"
 description = "Core transformation library with zero dependencies"
