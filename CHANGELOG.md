@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.25.4](https://github.com/benletchford/buup/compare/v0.25.3...v0.25.4) (2026-04-26)
+
+
+### Bug Fixes
+
+* change website ([4c4d832](https://github.com/benletchford/buup/commit/4c4d832b0a0b95245ee43bf12041da57f8de75b2))
+
 ## [0.25.3](https://github.com/benletchford/buup.io/compare/v0.25.2...v0.25.3) (2025-09-29)
 
 
