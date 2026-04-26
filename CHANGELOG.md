@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.25.5](https://github.com/benletchford/buup/compare/v0.25.4...v0.25.5) (2026-04-26)
+
+
+### Bug Fixes
+
+* pin dioxus ([f87282e](https://github.com/benletchford/buup/commit/f87282e01c626b8e4192fd07ea5ac8ec29dbe03b))
+
 ## [0.25.4](https://github.com/benletchford/buup/compare/v0.25.3...v0.25.4) (2026-04-26)
 
 
